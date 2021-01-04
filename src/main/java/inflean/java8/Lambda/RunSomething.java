@@ -1,4 +1,4 @@
-package inflean.java8;
+package inflean.java8.Lambda;
 
 @FunctionalInterface
 public interface RunSomething {

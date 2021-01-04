@@ -1,4 +1,4 @@
-package inflean.java8;
+package inflean.java8.Lambda;
 
 import java.util.function.*;
 
