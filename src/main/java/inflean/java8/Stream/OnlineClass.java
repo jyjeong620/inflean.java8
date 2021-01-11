@@ -1,6 +1,4 @@
-package inflean.java8.OptionalEx;
-
-import java.util.Optional;
+package inflean.java8.Stream;
 
 public class OnlineClass {
 
@@ -9,8 +7,6 @@ public class OnlineClass {
     private String title;
 
     private boolean closed;
-
-    public Progress progress;
 
     public OnlineClass(Integer id, String title, boolean closed){
         this.id = id;
@@ -41,18 +37,4 @@ public class OnlineClass {
     public void setClosed(boolean closed) {
         this.closed = closed;
     }
-
-
-//    public Progress getProgress() {
-//        return progress;
-//    }
-
-    public Optional<Progress> getProgress() {
-        return Optional.ofNullable(progress);   // null이 올수도있다. of 일경우에는 null이 아닐경우에만
-    }
-
-    public void setProgress(Progress progress) {
-        this.progress = progress;
-    }
-
 }

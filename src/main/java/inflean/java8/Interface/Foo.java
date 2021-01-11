@@ -1,6 +1,4 @@
-package inflean.java8.InterfaceEx;
-
-import java.util.Locale;
+package inflean.java8.Interface;
 
 public interface Foo {
     void printName();

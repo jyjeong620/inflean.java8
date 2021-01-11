@@ -1,4 +1,4 @@
-package inflean.java8.InterfaceEx;
+package inflean.java8.Interface;
 
 public class DefaultFoo implements Foo {
 

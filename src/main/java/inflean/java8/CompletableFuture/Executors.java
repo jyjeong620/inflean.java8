@@ -1,4 +1,4 @@
-package inflean.java8.CompletableFutureEx;
+package inflean.java8.CompletableFuture;
 
 import java.util.concurrent.ExecutorService;
 
