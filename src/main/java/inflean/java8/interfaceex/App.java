@@ -1,4 +1,4 @@
-package inflean.java8.Interface;
+package inflean.java8.interfaceex;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package inflean.java8.Array;
+package inflean.java8.array;
 
 import java.util.Arrays;
 import java.util.Random;

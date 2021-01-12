@@ -1,4 +1,4 @@
-package inflean.java8.Method;
+package inflean.java8.method;
 
 public class Greeting {
 

@@ -1,4 +1,4 @@
-package inflean.java8.Stream;
+package inflean.java8.stream;
 
 import java.util.ArrayList;
 import java.util.Collection;

@@ -1,4 +1,4 @@
-package inflean.java8.Annotation;
+package inflean.java8.annotation;
 
 import java.util.Arrays;
 import java.util.List;

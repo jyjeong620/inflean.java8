@@ -1,4 +1,4 @@
-package inflean.java8.Optional;
+package inflean.java8.optional;
 
 import java.time.Duration;
 

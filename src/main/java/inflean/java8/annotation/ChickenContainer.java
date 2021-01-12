@@ -1,4 +1,4 @@
-package inflean.java8.Annotation;
+package inflean.java8.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

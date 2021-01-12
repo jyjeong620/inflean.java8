@@ -1,4 +1,4 @@
-package inflean.java8.DataTime;
+package inflean.java8.datatime;
 
 import java.time.*;
 import java.time.format.DateTimeFormatter;
